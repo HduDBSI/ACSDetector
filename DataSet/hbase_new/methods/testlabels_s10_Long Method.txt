@@ -1,0 +1,4 @@
+hbase-rel-2.0.0-org.apache.hadoop.hbase.util-UnsafeAvailChecker-run.java    0
+hbase-rel-1.7.2-org.apache.hadoop.hbase.util-UnsafeAvailChecker-run.java    1
+hbase-rel-0.94.27-org.apache.hadoop.hbase.util-HBaseFsck-main.java    0
+hbase-rel-0.94.0-org.apache.hadoop.hbase.util-HBaseFsck-main.java    1

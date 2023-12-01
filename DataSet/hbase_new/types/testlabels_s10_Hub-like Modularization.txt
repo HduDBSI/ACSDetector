@@ -1,0 +1,2 @@
+hbase-rel-2.0.0-org.apache.hadoop.hbase.regionserver-StoreFile.java    0
+hbase-rel-1.7.2-org.apache.hadoop.hbase.regionserver-StoreFile.java    1

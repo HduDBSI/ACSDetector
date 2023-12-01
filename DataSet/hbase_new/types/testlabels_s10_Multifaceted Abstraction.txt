@@ -1,0 +1,2 @@
+hbase-rel-2.2.0-org.apache.hadoop.hbase.rsgroup-CPMasterObserver.java    0
+hbase-rel-2.1.9-org.apache.hadoop.hbase.rsgroup-CPMasterObserver.java    1
